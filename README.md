@@ -1,4 +1,4 @@
- Projeto de Gerenciador de Contatos, uma aplicação dedicada à realização das operações CRUD (Criar, Ler, Atualizar e Deletar) para facilitar o gerenciamento eficiente dos seus contatos. Este projeto é centrado no backend, sendo desenvolvido utilizando PHP puro, e utiliza o banco de dados relacional MySQL para armazenar as informações dos contatos.
+📌 Projeto de Gerenciador de Contatos, uma aplicação dedicada à realização das operações CRUD (Criar, Ler, Atualizar e Deletar) para facilitar o gerenciamento eficiente dos seus contatos. Este projeto é centrado no backend, sendo desenvolvido utilizando PHP puro, e utiliza o banco de dados relacional MySQL para armazenar as informações dos contatos.
 
 Funcionalidades Principais:
 
