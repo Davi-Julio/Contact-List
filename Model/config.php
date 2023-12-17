@@ -1,9 +1,9 @@
 <?php
 
-$localhost ='sql209.infinityfree.com';
-$user = 'if0_35635222';
-$pass ='qA81my2ROuvnfX';
-$db_name = "if0_35635222_contacts";
+$localhost ='localhost';
+$user = 'root';
+$pass ='';
+$db_name = "users";
 
 $mysqli = new mysqli($localhost,$user,$pass,$db_name);
 
